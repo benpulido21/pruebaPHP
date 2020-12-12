@@ -17,7 +17,7 @@
          <input type="number" name="cedula" id="cedula" required maxlength="20" onkeypress="return soloNumeros(event);"><br><br>
          <label for="correo">Correo:</label>
          <input type="email" name="correo" id="correo" required maxlength="120"><br><br>
-         <button type="button" id="registrar" onclick="registrar();">Registrar</button>
+         <button type="button" id="registrar">Registrar</button>
      </div>
     </div>
 </body>
